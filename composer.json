@@ -1,0 +1,12 @@
+{
+    "name": "vendor/deployer",
+    "description": "a tool to publish code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "woaichiji",
+            "email": "371199544@qq.com"
+        }
+    ],
+    "require": {}
+}

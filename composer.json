@@ -8,5 +8,10 @@
             "email": "371199544@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "jing\\": "src/"
+        }
+    }
 }

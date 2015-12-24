@@ -1,5 +1,5 @@
 <?php
-namespace chizhurou\tools;
+namespace com\yifei\tools;
 class Deployer
 {
     public static  function  display(){

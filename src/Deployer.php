@@ -1,5 +1,5 @@
 <?php
-namespace woaihizhurouxxxxxxxxxxxxxxxx\tools;
+namespace chizhurou\tools;
 class Deployer
 {
     public static  function  display(){

@@ -1,5 +1,5 @@
 {
-    "name": "vendor/deployer",
+    "name": "jingyifei/deployer",
     "description": "a tool to publish code",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "chizhurou\\tools": "src"
+            "com\\yifei\\tools\\": "src/come/yifei/tools"
         }
     }
 }

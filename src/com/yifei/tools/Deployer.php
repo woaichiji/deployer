@@ -1,5 +1,9 @@
 <?php
 namespace com\yifei\tools;
+/**
+ * Class Deployer
+ * @package com\yifei\tools
+ */
 class Deployer
 {
     public static  function  display(){

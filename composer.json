@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "com\\yifei\\tools\\": "src/come/yifei/tools"
+            "com\\yifei\\tools\\": "src/com/yifei/tools"
         }
     }
 }

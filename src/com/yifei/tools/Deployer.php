@@ -7,6 +7,6 @@ namespace com\yifei\tools;
 class Deployer
 {
     public static  function  display(){
-        echo "hello".PHP_EOL;
+        print_f("hello".PHP_EOL) ;
     }
 }
